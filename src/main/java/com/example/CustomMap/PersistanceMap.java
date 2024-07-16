@@ -1,4 +1,4 @@
-package org.example;
+package com.example.CustomMap;
 
 
 public class PersistanceMap<K,V> {
